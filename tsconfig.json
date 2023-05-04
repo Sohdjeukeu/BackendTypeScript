@@ -1,0 +1,14 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es2016",                                  
+    "module": "CommonJS",                                
+     "noEmitOnError": true,                            
+    "strict": true,                                      
+     "noImplicitAny": true,      
+    "rootDir": "./src",                                  
+    "outDir": "./dist",  
+    "moduleResolution": "node",
+    "esModuleInterop": true                              
+  }
+}
